@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+.menu{
+    list-style: none;
+    align-items: center;
+    background-color: black;
+    width: 30%;
+    padding: 30px;
+    margin: auto;
+}
+
+.menu li a{
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+img{
+    width: 30px;
+}
